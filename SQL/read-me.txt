@@ -1,0 +1,4 @@
+Generate ke SQL Server
+
+- Pastikan sudah membuat Database [Nama Database]
+- Execute/Generate script SQL (database.sql)

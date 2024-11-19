@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Mcf\\mcf-be\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\controllers\\storageloccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\controllers\\storageloccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\dtos\\storagelocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\dtos\\storagelocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\services\\bpkbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\services\\bpkbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\dtos\\bpkbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\dtos\\bpkbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\models\\bpkbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\models\\bpkbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\Rar$DIa13408.39344\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\mcfapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\mcfapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|d:\\project\\mcf\\mcf-be\\mcfapi\\repositories\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA7A868-422F-41D1-903A-B968275A3BAD}|McfApi\\McfApi.csproj|solutionrelative:mcfapi\\repositories\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StorageLocDto.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\DTOs\\StorageLocDto.cs",
+              "RelativeDocumentMoniker": "McfApi\\DTOs\\StorageLocDto.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\DTOs\\StorageLocDto.cs",
+              "RelativeToolTip": "McfApi\\DTOs\\StorageLocDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:15:31.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorageLocController.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Controllers\\StorageLocController.cs",
+              "RelativeDocumentMoniker": "McfApi\\Controllers\\StorageLocController.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Controllers\\StorageLocController.cs",
+              "RelativeToolTip": "McfApi\\Controllers\\StorageLocController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:04:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "McfApi\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "McfApi\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:10:33.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "McfApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "McfApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABoAAAAA0MzMzMwIwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:31:26.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\Rar$DIa13408.39344\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\Rar$DIa13408.39344\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:18:33.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "McfApi.csproj",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\McfApi.csproj",
+              "RelativeDocumentMoniker": "McfApi\\McfApi.csproj",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\McfApi.csproj",
+              "RelativeToolTip": "McfApi\\McfApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T15:27:56.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Persistence.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Repositories\\Persistence.cs",
+              "RelativeDocumentMoniker": "McfApi\\Repositories\\Persistence.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Repositories\\Persistence.cs",
+              "RelativeToolTip": "McfApi\\Repositories\\Persistence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:05:12.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BPKBDto.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\DTOs\\BPKBDto.cs",
+              "RelativeDocumentMoniker": "McfApi\\DTOs\\BPKBDto.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\DTOs\\BPKBDto.cs",
+              "RelativeToolTip": "McfApi\\DTOs\\BPKBDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:05:03.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "McfApi\\Models\\UserModel.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Models\\UserModel.cs",
+              "RelativeToolTip": "McfApi\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:00:00.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BPKBModel.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Models\\BPKBModel.cs",
+              "RelativeDocumentMoniker": "McfApi\\Models\\BPKBModel.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Models\\BPKBModel.cs",
+              "RelativeToolTip": "McfApi\\Models\\BPKBModel.cs",
+              "ViewState": "AQIAAAwAAAAgAwAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:59:59.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BPKBController.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Controllers\\BPKBController.cs",
+              "RelativeDocumentMoniker": "McfApi\\Controllers\\BPKBController.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Controllers\\BPKBController.cs",
+              "RelativeToolTip": "McfApi\\Controllers\\BPKBController.cs",
+              "ViewState": "AQIAADMAAAAASDMzMzMXwEQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:48:37.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "McfApi\\Controllers\\HealthController.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "McfApi\\Controllers\\HealthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:47:00.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "McfApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\appsettings.Development.json",
+              "RelativeToolTip": "McfApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T06:26:20.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BPKBService.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Services\\BPKBService.cs",
+              "RelativeDocumentMoniker": "McfApi\\Services\\BPKBService.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Services\\BPKBService.cs",
+              "RelativeToolTip": "McfApi\\Services\\BPKBService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAtwC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:23:08.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\appsettings.json",
+              "RelativeDocumentMoniker": "McfApi\\appsettings.json",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\appsettings.json",
+              "RelativeToolTip": "McfApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T06:20:47.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Program.cs",
+              "RelativeDocumentMoniker": "McfApi\\Program.cs",
+              "ToolTip": "D:\\Project\\Mcf\\mcf-be\\McfApi\\Program.cs",
+              "RelativeToolTip": "McfApi\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:20:37.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

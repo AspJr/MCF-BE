@@ -1,0 +1,39 @@
+1. PrimaryKey : NoKontrak, KodeCabang, KodeMotor
+   Foreign Key : KodeCabang, KodeMotor, NoKwitansi(opsional)
+   
+2. Select * From TabelPembayaran
+Where  CAST(TglBayar AS DATE)  = '2014-10-20'
+
+14101900001 002
+3. INSERT INTO [dbo].[TabelCabang]
+           ([KodeCabang]
+           ,[NamaCabang])
+     VALUES
+           ('200'
+           ,'Tangerang')
+4. UPDATE [dbo].[TabelPembayaran]
+   SET 
+      KodeMotor = '001'
+ WHERE KodeCabang = 'Jakarta'	
+
+5. Select TP.NoKontrak, TP.TglBayar, TP.JumlahBayar, TP.KodeCabang, TC.NamaCabang, TP.KodeMotor, TM.NamaMotor 
+From TabelPembayaran AS TP
+JOIN TabelCabang AS TC
+ON TP.KodeCabang = TC.KodeCabang
+JOIN TabelMotor AS TM
+ON TP.KodeMotor = TM.KodeMotor
+
+6. Select TC.KodeCabang, TC.NamaCabang, TP.NoKontrak, TP.NoKwitansi
+From   TabelCabang AS TC
+LEFT JOIN TabelPembayaran  AS TP
+ON TP.KodeCabang = TC.KodeCabang
+Where TC.KodeCabang != '200'
+
+7. Select TC.KodeCabang, TC.NamaCabang, Count(TP.KodeCabang) AS TotalData, Isnull(Sum(JumlahBayar),0) AS TotalBayar
+From   TabelCabang AS TC
+Left JOIN TabelPembayaran  AS TP
+ON TP.KodeCabang = TC.KodeCabang
+Where NamaCabang != 'Tangerang'
+Group By TC.KodeCabang, NamaCabang
+Order By KodeCabang 
+ 
