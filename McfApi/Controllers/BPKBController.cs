@@ -59,7 +59,6 @@ namespace McfApi.Controllers
         }
 
         // Get List BPKB
-        //[HttpPost("[action]")]
         [HttpGet("[action]")]
         public async Task<IActionResult> ListDataBpkb()
         {
@@ -71,11 +70,21 @@ namespace McfApi.Controllers
 
         // Get List BPKB
         [HttpPost("[action]")]
-        public async Task<IActionResult> GetDataBpkbByAgreementNumber([FromQuery] int agreement_number)
+        public async Task<IActionResult> GetDataBpkbByAgreementNumber([FromBody] int agreement_number)
         {
             var result = await _service.GetBpkbByAgreementNumber(agreement_number);
 
-            return Ok(new ResponseData { is_success = true, status_code = StatusCodes.Status200OK, message = "Success Get Bpkb", data = result });
+            //return Ok(new ResponseData { is_success = true, status_code = StatusCodes.Status200OK, message = "Success Get Bpkb", data = result });
+            return Ok(result);
+        }
+
+        [HttpPost("[action]")]
+        public async Task<IActionResult> DeleteDataBpkbByAgreementNumber([FromBody] BPKBModel bpkb)
+        {
+            var result = await _service.DeleteBpkbByAgreementNumber(bpkb);
+
+            //return Ok(new ResponseData { is_success = true, status_code = StatusCodes.Status200OK, message = "Success Get Bpkb", data = result });
+            return Ok(result);
         }
     }
 }

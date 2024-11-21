@@ -8,8 +8,9 @@ namespace McfApi.Services
 	{
 		Task<int> CreateDataBpkb(BPKBDto entity);
 		Task<int> UpdateDataBpkb(BPKBDto entity);
-		Task<IEnumerable<BPKBModel>> GetListBpkb();
-		Task<BPKBModel> GetBpkbByAgreementNumber(int agreement_number);
+		Task<IEnumerable<BPKBModel>> GetListBpkb(); //async Task<BPKBModel>
+        Task<BPKBModel> DeleteBpkbByAgreementNumber(BPKBModel entity);
+        Task<BPKBModel> GetBpkbByAgreementNumber(int agreement_number);
     }
 }
 

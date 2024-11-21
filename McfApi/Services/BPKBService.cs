@@ -61,6 +61,7 @@ namespace McfApi.Services
             return result;
         }
 
+
         public async Task<IEnumerable<BPKBModel>> GetListBpkb()
         {
             var result = await _repository.FindAllAsync();
@@ -111,6 +112,15 @@ namespace McfApi.Services
                 throw new Exception(ex.Message);
             }
         }
+
+
+        public async Task<BPKBModel> DeleteBpkbByAgreementNumber(BPKBModel entity)
+        {
+            var result = await _repository.Delete(entity);
+
+            return result;
+        }
+
     }
 }
 

@@ -16,8 +16,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDependencyInjection();
 builder.Services.ConfigureCorsPolicy();
-//builder.Services.AddDbContext<EfCoreContext>(option => option.UseSqlServer("server=" + Env.GetString("HOST") + ";user=" + Env.GetString("USERNAME") + ";password=" + Env.GetString("PASSWORD") + ";Database=" + Env.GetString("DATABASE") + ";Trusted_Connection=false;MultipleActiveResultSets=true;TrustServerCertificate=True"));
-builder.Services.AddDbContext<EfCoreContext>(option => 
+//builder.Services.AddDbContext<EfCoreContext>(option => option.UseSqlServer("server=" + Env.GetString("HOST") + ";user=" + Env.GetString("USERNAME") + ";password=" + Env.GetString("PASSWORD") + ";Database=" + Env.GetString("DATABASE") + ";Trusted_Connection=true;MultipleActiveResultSets=true;TrustServerCertificate=True"));
+
+builder.Services.AddDbContext<EfCoreContext>(option =>
             option.UseSqlServer("server=localhost\\SQLEXPRESS2019; database=DB_Mcf; Integrated Security=true;TrustServerCertificate=True;")
         );
 builder.Services.AddTransient<HandleExceptionMiddleware>();

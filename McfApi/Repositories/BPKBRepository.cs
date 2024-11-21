@@ -26,6 +26,8 @@ namespace McfApi.Repositories
             return result.Entity;
         }
 
+
+
         public async Task<List<BPKBModel>> FindAllAsync()
         {
             var result = await _context.Set<BPKBModel>().ToListAsync();
